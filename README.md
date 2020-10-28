@@ -1,1 +1,1 @@
-# Curso_python_turma3
+Terceira turma do treinamento de python pela Keyrus Brasil e KLX
