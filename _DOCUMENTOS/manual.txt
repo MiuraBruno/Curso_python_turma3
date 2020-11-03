@@ -1,0 +1,82 @@
+#inicia um repositorio
+git init
+
+#configura o nome do usuário
+git config user.name Miura
+
+#configura o email do usuário
+git config user.email brunolmiura@gmail.com
+
+#setando o README.md
+crie na mão o arquivo e adicione algumas instruções sobre o que será versionado
+
+#adiciona na stage
+git add *
+
+#commit para versionar
+git commit -m "comentário sobre o commit"
+
+#config para github
+criar um novo repositório para sincroniazar local com o github
+
+#conectando o repositório local com o github
+git remote add origin url://github/my_repository.git
+
+#ver se o comando funcionou
+git remote
+
+#fazendo um push
+git push -u origin master
+#irá aparecer uma tela para se fazer login no github e todo o push será feito automático para o github
+
+#arquivo .gitignore
+#contem todos os arquivos ou pastas que devem ser ignoradas pelo git, sendo assim não vão nem versionar e nem subir para o github
+/nome_pasta
+
+
+#traz o que está no github para o repositório local
+git pull
+
+#criar e usar uma branch
+git checkout -b nome_branch
+
+
+#ver todas as branchs
+git branch
+
+#voltar a master
+git checkout master
+
+#excluir uma branch
+git banch -d nome_branch
+
+
+#fazer um merge da branch, lembre-se de estar na master
+git merge nome_branch
+
+
+
+#ver histórico de commits
+git log --oneline --graph
+
+
+#apos resolver os conflitos do merge na mão
+#fazer o add e o commit explicando o que foi resolvido
+
+
+$ git log --oneline --graph
+* cc696e8 (HEAD -> master, nome_branch) commit final
+*   e055e3c commit final
+|\
+| * f9b11f6 (final) alteracoes em 1 e 2
+* | d714dfe alteracoes em 1,2 e 3
+|/
+*   35fddb0 Merge branch 'branch2'
+|\
+| * ba7b00c commit 3
+* | 03b6dd6 commit 4
+|/
+* aa2df3f commit dois
+* 7f0fa72 commit 1
+
+
