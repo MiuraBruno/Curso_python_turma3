@@ -1,0 +1,1 @@
+aula com comandos baśicos de python, declaração de variáveis e comando de decisão(if/else)
