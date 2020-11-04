@@ -80,3 +80,5 @@ $ git log --oneline --graph
 * 7f0fa72 commit 1
 
 
+#resolvendo conflitos de pull
+git reset --hard
