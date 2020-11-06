@@ -1,0 +1,1 @@
+Aula de funções e como reciclar suas funções colocando em um arquivo a parte e usando dentro de outros códigos para que um possível código python rodando em produção fique mais limpo e organizado

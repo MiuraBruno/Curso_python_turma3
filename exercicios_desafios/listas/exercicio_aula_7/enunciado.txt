@@ -1,0 +1,18 @@
+a solução deve ser feita com os dois métodos visto na aula 7
+    com with open
+    com try, except 
+    
+tarefa:
+    ler o arquivo iris.csv
+        curiosidade: é um arquivo famoso quando se trata de introdução a machine lerning. 
+    Ele possui informações sobre flores. Sua largura e comprimento da petálas e sepalas relacionado com sua espécie.    
+    
+    o trabalho consiste em agrupar os dados por espécie e calcular o tamanho médio de cada uma das informações do arquivo.
+    
+    a saída deve conter N arquivos nomeados com os nomes das flores, um para cada espécie, e no seu conteúdo a primeira linha sendo o cabeçalho e a segunda sendo a média aritmética dos valores lidos para aquela determinada espécie.
+    
+    e um arquivo geral que tem a união de todos os outros arquivos menores(este deve ser a saída na linha de comando do try, except de resto todos os arquivos podem ser gravados como write ou comandos do genero)
+
+    
+    
+    

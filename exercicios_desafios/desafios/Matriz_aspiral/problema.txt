@@ -1,0 +1,25 @@
+Faça um programa que receba uma série de n números e imprima uma matriz 
+quadrada de ordem n que onde cada elemento cresce em uma aspiral crescente
+o programa encerra quando for digitado zero
+
+input:
+1
+2
+3
+4
+0
+
+output:
+1
+
+1 2
+4 3
+
+1 2 3
+8 9 4
+7 6 5
+
+1 2 3 4
+12 13 14 5
+11 16 15 6
+10 9 8 7 

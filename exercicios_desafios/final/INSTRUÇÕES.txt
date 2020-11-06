@@ -1,0 +1,20 @@
+A proposta do exercício é fazer todo o controle de pedidos de mesa de um restaurante e fechar suas comandas dando o gasto de cada mesa
+
+input:
+    o código gerador_de_pedidos.ipynb ficará rodando em looping e gerando vários pedidos aleatórios na pasta pedidos/
+    
+desafio 1:
+    ler todos esses pedidos gerados e gerar uma nota fiscal contendo o nome de cada produto junto com seu preço unitário mais o seu preço total e o total da consumação da mesa, semelhante a uma nota fiscal.
+    
+desafio 2: 
+    gerar backups versionados dos pedidos, afinal em um dia de expediente a mesma mesa pode receber vários pedidos
+
+desafio 3:
+    faturamentoa do dia, fazer um acumulado de todos os pedidos e valores que entraram naquele dia de atendimento
+    
+desafio 4:
+    ranking do garçon que trouxe o maior lucro para o restaurante
+    
+desafio 5:
+    ranking dos produtos que são mais vendidos no decorrer de um dia
+   
