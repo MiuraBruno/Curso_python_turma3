@@ -1,0 +1,1 @@
+Aula referente a como importar bibliotecas e usar, um básico tutorial de como instalar outras bibliotecas que não vem no pacote padrão do python
