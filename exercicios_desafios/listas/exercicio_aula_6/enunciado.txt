@@ -1,4 +1,4 @@
-a solução deve ser feita com os dois métodos visto na aula 7
+a solução deve ser feita com os dois métodos visto na aula 6
     com with open
     com try, except 
     
