@@ -1,0 +1,1 @@
+Aula para mostrar como tirar hardcode do código e torna-lo mais genérico usando a biblioteca do python para arquivo de configurações
