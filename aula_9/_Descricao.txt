@@ -1,0 +1,1 @@
+aula referente a biblioteca Numpy e seus comandos
