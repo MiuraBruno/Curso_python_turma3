@@ -1,0 +1,4 @@
+aula referente a programação funcional
+função anônima usando o comando lambda
+e algumas funcões para potencializar a programação
+map,filter,zip,reduce
