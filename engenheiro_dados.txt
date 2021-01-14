@@ -1,0 +1,17 @@
+disponibilidade
+confiabilidade
+segurança 
+planejamento
+monitoramento
+
+____________
+data warehouses
+datalakes
+processos de analise (batch)
+streaming
+ETL ELT
+____________
+performance
+requisitos funcionais
+governança
+____________
