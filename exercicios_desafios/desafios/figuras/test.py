@@ -1,10 +1,10 @@
-def tri_eq(c,linha):
-    metade = (linha // 2)
-    padrao = (' ' * metade) + c
-    for i in range(linha):
-        print((' ' * metade) + padrao)
-        metade = metade - 1
-        padrao = padrao + ' ' + c + ' ' + c
+def tri_eq(c,n):
+    space = ' '* (n-1)
+    dig = 1
+    for i in range(n):
+        print(space + '*' * dig )
+        space = space[:-1]
+        dig = dig + 2
         
         
         
